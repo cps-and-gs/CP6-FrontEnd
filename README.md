@@ -1,1 +1,1 @@
-# CP6-FrontEnd
+# cp6-front
